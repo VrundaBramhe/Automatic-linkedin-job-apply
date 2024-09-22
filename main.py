@@ -1,4 +1,4 @@
-EM="vrundabramhe@gmail.com"
+EM=""
 PASSWORD=""
 # from bs4 import BeautifulSoup
 import time
